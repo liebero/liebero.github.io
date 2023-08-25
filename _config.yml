@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko_KR.UTF-8"
 title                    : "Liebero Note"
 title_separator          : "-"
-subtitle                 : 여러 생각들....
+subtitle                 : # 여러 생각들....
 name                     : "Liebero Note"
 description              : "An amazing website."
 url                      : "http://liebero.github.io"
