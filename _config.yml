@@ -112,8 +112,8 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:agucfc01@gmail.com"
-    - label: "Website"
+      # url: "mailto:agucfc01@gmail.com"
+    - label: "Your Website"
       icon: "fas fa-fw fa-link"
       url: a target="_blank","https://liebero.tistory.com/"
     - label: "Twitter"
