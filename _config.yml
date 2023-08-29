@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "Liebero Note"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : # 여러 생각들....
 name                     : "Liebero Note"
-description              : "An amazing website."
+description              : "Liebero Note"
 url                      : "http://liebero.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
