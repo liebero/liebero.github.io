@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Liebero Note"
 title_separator          : "|"
-subtitle                 : # 여러 생각들....
+subtitle                 : 여러 생각들....
 name                     : "Liebero Note"
 description              : "Liebero Note"
 url                      : "http://liebero.github.io"
