@@ -2,10 +2,10 @@
 main:
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Posts"
-     url: https://liebero.github.io/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Posts"
+  #   url: https://liebero.github.io/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
