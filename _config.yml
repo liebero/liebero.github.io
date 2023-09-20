@@ -27,7 +27,7 @@ description              : "Liebero Note"
 url                      : "http://liebero.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "liebero/liebero.github.io"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Liebero Note"
 # breadcrumbs            : false # true, false (default)
