@@ -112,6 +112,7 @@ author:
   name             : "Liebero"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "People who love the world"
+  Categories       : /categories/
   location         : "Seoul.Korea"
   email            : # "agucfc01@gmail.com"
   links:
