@@ -112,14 +112,12 @@ author:
   name             : "Liebero"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "People who love the world"
-  Categories       : "Categories" 
-  path             : /categories/
-  location         : "Seoul.Korea"
+  location         : # "Seoul.Korea"
   email            : # "agucfc01@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:agucfc01@gmail.com"
+      # url: "mailto:agucfc01@gmail.com"
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
       url: "https://liebero.tistory.com/"
