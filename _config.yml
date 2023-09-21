@@ -13,14 +13,6 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
----
-classes: wide
-sidebar:
-    nav: "counts"
----
-
-header:
-  teaser: /assets/images/bio-photo.jpg
 
 # Site Settings
 locale                   : "ko-KR"
