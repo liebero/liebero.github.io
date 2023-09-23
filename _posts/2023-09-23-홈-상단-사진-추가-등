@@ -11,8 +11,8 @@ sidebar:
 ## 변경사항
 
 1. 홈화면 상단에 그림 삽입
-- /_layouts/archive.html  파일에 아래 내용 삽입
-
+- /_layouts/archive.html  파일에 아래 내용 삽입<br>
+<br>
 ><div class="title_image">
 >  <div class="t_img">
 >    <img src="/assets/images/sunrise-8235464.jpg" class="title_splash">
