@@ -1,5 +1,13 @@
-홈 상단에 사진을 추가했다.<br>
-<br>
+---
+layout: single
+title:  "홈 상단에 사진을 추가했다."
+categories: Coding
+tags: [github]
+toc: true
+sidebar:
+    nav: "counts"
+---
+
 ## 변경사항
 
 1. 홈화면 상단에 그림 삽입
