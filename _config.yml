@@ -297,3 +297,5 @@ defaults:
       related: true
       toc_sticky: true
       toc_label: 목 차
+
+date_format: "%Y-%m-%Ad"
