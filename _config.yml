@@ -298,4 +298,4 @@ defaults:
       toc_sticky: true
       toc_label: 목 차
 
-date_format: "%Y-%m-%Ad"
+date_format: "%Y-%m-%Ad" 
